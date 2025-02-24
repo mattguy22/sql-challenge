@@ -13,6 +13,7 @@ An in-depth research project analyzing employee data from the 1980s and 1990s us
 - [Data Analysis Queries](#data-analysis-queries)
 - [Future Enhancements](#future-enhancements)
 - [About](#about)
+- [Resources](#resources)
 
 ## Features
 - **Database Reconstruction:** Designed table schemas to store historical employee data.
@@ -70,3 +71,8 @@ During the analysis phase, we executed **eight SQL queries** to extract key insi
 ## About
 This project reconstructs an employee database for Pewlett Hackard, ensuring accurate historical data storage and efficient SQL-based analysis. By leveraging PostgreSQL, the database structure adheres to best practices for relational databases and performance optimization.
 
+## Resources
+- **ERD Diagram:** – Used QuickDBD to sketch the Entity Realationship Diagram of the tables.  
+- **DU Bootcamp Module 9 Lessons** – Provided guidance on SQL structure and syntax for some of the data analysis queries.
+- **Quick Database Diagrams (QuickDBD)** – Used to create the **ERD image** for `employee_db`.
+- **ChatGPT** – Assisted with refining the database schema structure.  
